@@ -1,7 +1,7 @@
 var config = {
-  "ClientId": "",
-  "ClientSecret": "",
-  "AccessToken": "",
+  "ClientId": "ABx7Iw1SsQHwLIK5ItH3oHjGNAguJUKUGmBEwlGdf3NjF5OrEN",
+  "ClientSecret": "r2XqejHn88H0yKH8t6HKOi9FLoasqDXWLOUKGzb3",
+  "AccessToken": "xcvbnmkl",
   "RefreshToken": "",
   "RealmId": "",
   "AccountingBaseUrl": "https://sandbox-quickbooks.api.intuit.com",
